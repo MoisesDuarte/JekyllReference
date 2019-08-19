@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Sobre
+title: About
 ---
 
-# Sobre
+# About
 
-Essa é uma página de sobre.
+Essa é uma página de About.
